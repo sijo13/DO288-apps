@@ -1,3 +1,3 @@
 # Use the httpd-parent image as base
 FROM quay.io/redhattraining/httpd-parent
-LABEL helo
+EXPOSE 8080
